@@ -1,6 +1,6 @@
 # KDD-2020
 
-## Link:  https://www.kdd.org/kdd2020/accepted-paper
+## Link:  https://www.kdd.org/kdd2020/accepted-papers
 
 ## Research Track acceptance rate = 216/1279=16.8%
 
